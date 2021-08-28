@@ -1,0 +1,1 @@
+fazer site que a própria pessoa personaliza os dados através da função DOM com innerText
